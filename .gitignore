@@ -15,6 +15,7 @@ PATH
 itlabormarket_project_plan.md
 postgres
 key_word
+node_modules
 
 test_fixtures.sh
 error.html
